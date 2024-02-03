@@ -10,5 +10,7 @@ Aşağıdaki linklerden proje takımının GitHub hesaplarına ulaşabilirsiniz:
 
 [Nurefşan Savaş](https://github.com/nurefsansavash1)
 
+[Ayşe İrem Alan](https://github.com/ayseire)
+
 
 [Github](https://pages.github.com/)
