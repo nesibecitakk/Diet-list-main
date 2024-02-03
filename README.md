@@ -8,5 +8,7 @@ Aşağıdaki linklerden proje takımının GitHub hesaplarına ulaşabilirsiniz:
 
 [Nesibe Çıtak](https://github.com/nesibecitakk)
 
+[Nurefşan Savaş](https://github.com/nurefsansavash1)
+
 
 [Github](https://pages.github.com/)
