@@ -6,7 +6,7 @@ Bu kişiye özel bir diyet programıdır.
 
 Aşağıdaki linklerden proje takımının GitHub hesaplarına ulaşabilirsiniz:
 
-[Nesibe Çıtak]_(https://github.com/nesibecitakk)
+[Nesibe Çıtak](https://github.com/nesibecitakk)
 
 
 [Github](https://pages.github.com/)
